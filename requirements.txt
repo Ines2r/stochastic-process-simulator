@@ -1,4 +1,4 @@
 streamlit
 numpy
 pandas
-matplotlib
+matplotlib==3.5.3
